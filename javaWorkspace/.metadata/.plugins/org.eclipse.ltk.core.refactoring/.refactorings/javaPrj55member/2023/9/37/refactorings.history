@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;member.controller.Member&apos; to &apos;MemberManager&apos;&#x0D;&#x0A;- Original project: &apos;javaPrj55member&apos;&#x0D;&#x0A;- Original element: &apos;member.controller.Member&apos;&#x0D;&#x0A;- Renamed element: &apos;member.controller.MemberManager&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Member&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;member.controller{Member.java[Member" matchStrategy="1" name="MemberManager" qualified="false" references="true" similarDeclarations="false" stamp="1694654452790" textual="false" version="1.0"/>
+</session>
